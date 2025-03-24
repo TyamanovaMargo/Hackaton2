@@ -14,6 +14,7 @@ Airbnb pricing is highly variable and depends on numerous factors, making it cha
 
 ## 🚀 Features
 ✅ **Data Preprocessing**: Handles missing data, removes duplicates, and transforms categorical variables to ensure clean and usable data.
+
 ✅ **Feature Engineering**: Creates new features and groups neighborhoods to improve prediction accuracy
 
 ✅ **Correlation Analysis**: Identifies relationships between listing attributes and price
@@ -48,6 +49,8 @@ pip install pandas numpy scipy matplotlib seaborn scikit-learn kagglehub datetim
 
 4️⃣ **Dataset**:
 The dataset is downloaded from Kaggle using kagglehub.
+[🔗 Kaggle]([[https://www.kaggle.com]](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
+
 
 ## 📊 **Understanding the Data**
 The dataset includes various Airbnb listing attributes, such as:
