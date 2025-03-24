@@ -58,8 +58,19 @@ Host Information: Host verification status.
 ... and many more.
 
 
-📌 Conclusion
-By segmenting the dataset based on borough and training individual Random Forest, Linear Regression, and Gradient Boosting models, we observed a substantial improvement in prediction accuracy compared to a single, generalized model.
+Conclusion 📌
+
+Our results show that looking at different neighborhoods separately helps us predict Airbnb prices better. Each area has its own price patterns, so splitting the data makes the predictions more accurate. We also used a special math trick (log transformation) to make prices easier to compare, helping our model work better.
+
+🚀 How This Can Help:
+
+✅ Hosts: Can see how much similar homes cost and set fair prices.✅ Guests: Can find good deals and compare prices more easily.✅ Market Experts: Can study price trends and see which areas are growing.✅ Real Estate Agents: Can use the data to find good places for investment.
+
+🔧 How to Make It Even Better:
+
+🔹 More Details: Adding things like seasons, extra features in the house, and reviews could improve predictions.🔹 Smarter Models: Trying out advanced AI models may give even better results.🔹 Time-Based Pricing: Looking at how prices change over time can help make smarter predictions.🔹 More Location Info: Adding data on crime rates, attractions, and local events could improve accuracy.
+
+With these improvements, our tool could become even more useful for Airbnb users, hosts, and business experts.
 
 
 ⭐ Contributions & Feedback are Welcome!
